@@ -1,0 +1,29 @@
+[
+  {
+    "id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "name": "Test Account",
+    "iban": "TEST012941239481",
+    "currency": "EUR",
+    "nature": "credit_card",
+    "status": "active",
+    "balance": -1500
+  },
+  {
+    "id": "927878a1-21e5-4885-a731-334cbc678404",
+    "name": "Test Account 2",
+    "iban": "TEST098471723481",
+    "currency": "EUR",
+    "nature": "account",
+    "status": "active",
+    "balance": 1400
+  },
+  {
+    "id": "b1cb4bf7-caba-4481-99ec-42eceb023db3",
+    "name": "Test Account 3",
+    "iban": "TEST075283312931",
+    "currency": "EUR",
+    "nature": "loan",
+    "status": "active",
+    "balance": 45000
+  }
+]

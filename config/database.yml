@@ -1,0 +1,25 @@
+default: &default
+  adapter: mysql2
+  encoding: utf8
+  host: mysql
+  port: 3306
+  username: root
+  reconnect: true
+  use-strict-min: true
+  wait_timeout: <%= ENV['DB_WAIT_TIMEOUT'] || 5000 %>
+  min-pool-size: <%= ENV['MIN_DB_POOL_SIZE'] || 50 %>
+  pool: <%= ENV['RAILS_MAX_THREADS'] || 128 %>
+
+development:
+  <<: *default
+  database: visable_bank_dev
+
+test:
+  <<: *default
+  database: visable_bank_test
+
+production:
+  <<: *default
+  database: <%= ENV['DATABASE_NAME'] %>
+  username: <%= ENV['DATABASE_USER'] %>
+  password: "<%= ENV['DATABASE_PASSWORD'] %>"

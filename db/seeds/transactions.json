@@ -1,0 +1,134 @@
+[
+  {
+    "id": "032e6168-27ce-4909-b68f-4ff13eadeed6",
+    "description": "Internal payment",
+    "amount": "100.0",
+    "transaction_type": "payment",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "43241b15-62cb-42a7-b793-f8657285e755",
+    "description": "P2P transfer",
+    "amount": "10.0",
+    "transaction_type": "transfer",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "458afe19-c4ad-4876-8560-874e4c8a1aed",
+    "description": "P2P transfer",
+    "amount": "14.0",
+    "transaction_type": "transfer",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "78d285ce-db68-40d5-97a5-8ee24d1a9f05",
+    "description": "Internal payment",
+    "amount": "25.0",
+    "transaction_type": "payment",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "81ebca2c-b39d-4b1e-abe3-7ae8b3910376",
+    "description": "Internal payment",
+    "amount": "33.0",
+    "transaction_type": "payment",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "6889f98b-b770-4fc5-afc3-e1196c45a7e7",
+    "description": "P2P transfer",
+    "amount": "48.0",
+    "transaction_type": "transfer",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "e5ace0e8-a687-473d-b26f-a9f884d5457b",
+    "description": "P2P transfer",
+    "amount": "12.0",
+    "transaction_type": "transfer",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "2c19fbb1-b11f-42ea-8bf6-9338c610bb93",
+    "description": "Additional payments",
+    "amount": "150.0",
+    "transaction_type": "payment",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "048f0dbd-03dd-484d-8616-994fb58d29cd",
+    "description": "Additional payments",
+    "amount": "200.0",
+    "transaction_type": "payment",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "4ed285ce-db68-40d5-97a5-8ee24d1a9f05",
+    "description": "N/A",
+    "amount": "19.0",
+    "transaction_type": "transfer",
+    "currency": "EUR",
+    "status": "completed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "d339943b-c332-4cf7-bb7c-08390813d211",
+    "description": "Salary incomes",
+    "amount": "10.0",
+    "transaction_type": "salary",
+    "currency": "EUR",
+    "status": "pending",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  },
+  {
+    "id": "55c0b0cb-2ea5-4cd3-a95b-0b0c19c8536b",
+    "description": "Salary incomes",
+    "amount": "10.0",
+    "transaction_type": "salary",
+    "currency": "EUR",
+    "status": "failed",
+    "date": "2021-10-01",
+    "account_id": "3f912150-d889-498b-b671-1a77fc8c3fa9",
+    "receiver_account_id": "927878a1-21e5-4885-a731-334cbc678404"
+  }
+]
